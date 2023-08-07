@@ -1,4 +1,7 @@
 # 汉语拉丁化方案 hanyu-latinization-method
+## 为什么 Just WHY?
+1. I'm bored
+2. 汉字笔画太冗余了，比如说我家狗叫嘟嘟，“都”单纯表达一个音符/tu/，用汉字却要写那么多笔
 ## 字词频表 Frequency list
 ## 输入法 Input method
 ## 字母 Alphabet
